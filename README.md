@@ -1,5 +1,5 @@
 # caro_remake_2
-
+This is my second remade caro project after learning vuejs component
 ## Project setup
 ```
 npm install
